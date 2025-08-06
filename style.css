@@ -1,0 +1,23 @@
+h1 {
+    color:blueviolet;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+  border-radius: 15px; 
+}
+h2{
+font-size: 22px;
+text-align: center;
+}
+body {
+    background-color:pink;
+    font-size: 24px;
+}
+.lien-email {
+    font-size: 10px;
+}
+footer {
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace
+    
+}
