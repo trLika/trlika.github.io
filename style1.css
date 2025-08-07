@@ -1,0 +1,48 @@
+h1 {
+    color:blueviolet;
+    font-size: 44px;
+    font-style: oblique;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+  border-radius: 23px;
+}
+h2{
+font-size: 25px;
+text-align: center;
+
+}
+h3{
+    font-size: 24;
+    font-style: italic;
+    color: black;
+}
+body {
+    background-color:pink;
+    font-size: 30px;
+    font-style: italic;
+    color:black;
+    background-image:url(image/ItGirl.jpg) ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    
+}
+.lien-email {
+    font-size: 10px;
+}
+footer {
+    color:blueviolet;
+     text-align: center;
+     font-size: 34px; 
+    font-family:'Courier New', Courier, monospace
+   
+
+  
+}
+.largeur-fixe {
+        width: 50px;
+        height: 40;
+    }
+    
+

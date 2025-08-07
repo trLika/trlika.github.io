@@ -1,0 +1,37 @@
+
+body {
+ /*image de la page direction*/
+   background-image:url(image/job.jpg) ;
+   background-repeat:no-repeat;
+   background-position:center;
+   background-size:cover;
+}
+h1{
+    color:blueviolet;
+    font-size: 44px;
+    font-style: oblique;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+  border-radius: 23px;
+}
+h2 {
+    color:blueviolet;
+}
+body {
+    background-color:pink;
+    font-size: 30px;
+    font-style: oblique;
+    color:white;
+    
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    
+}
+footer {
+    color:whitesmoke;
+     text-align: center;
+     font-size: 34px; 
+    font-family:'Courier New', Courier, monospace
+}
